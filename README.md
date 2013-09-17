@@ -1,4 +1,4 @@
-camen
+CaMeN
 =====
 
 Canvas Map Engine
